@@ -140,6 +140,3 @@ All simulations run purely in Python (NumPy, SciPy, Matplotlib) and can be execu
 
 ---
 
-## License
-
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
